@@ -42,7 +42,8 @@ Membuat Load Balancing dengan Podman + Nginx + Flask
 
 7. Membuat Pod <br>
 Agar container bisa saling berkomunikasi:
-   <img width="912" height="98" alt="image" src="https://github.com/user-attachments/assets/8fd3ccf8-1517-49fc-9604-2c133738518c" /> <br>
+<img width="935" height="98" alt="image" src="https://github.com/user-attachments/assets/4b634264-9bb8-4392-b221-a678a77107d5" />
+<br>
    Masukkan container ke pod
     <img width="939" height="240" alt="image" src="https://github.com/user-attachments/assets/f7620a8e-3ad1-41d9-9b92-7b5d6080d2fb" /> <br>
 
