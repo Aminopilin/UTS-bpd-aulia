@@ -25,9 +25,29 @@ Membuat Load Balancing dengan Podman + Nginx + Flask
 8. Build Image dengan Podman
    <img width="626" height="53" alt="image" src="https://github.com/user-attachments/assets/dfdd3cea-81ca-465c-8abd-8f8046e8f003" />
 
+   <img width="917" height="1002" alt="image" src="https://github.com/user-attachments/assets/1c5cd13c-0bb8-406d-bd05-0e124c58c7fb" />
+
 10. Menjalankan Beberapa Container
-11. Membuat Pod
-12. Membuat Konfigurasi Nginx
-13. Menjalankan Nginx Container
-14. Pengujian
+    Container 1
+    <img width="930" height="78" alt="image" src="https://github.com/user-attachments/assets/bcca43ea-1d1b-470f-89a1-48d7faa70abb" />
+
+    Container 2
+    <img width="922" height="76" alt="image" src="https://github.com/user-attachments/assets/697c0d3f-dc3f-441b-a412-e73f657928b1" />
+
+    Container 3
+    <img width="925" height="69" alt="image" src="https://github.com/user-attachments/assets/53c5201f-abc8-401e-be05-11862983bc78" />
+
+12. Membuat Pod
+    <img width="912" height="98" alt="image" src="https://github.com/user-attachments/assets/8fd3ccf8-1517-49fc-9604-2c133738518c" />
+
+    <img width="939" height="240" alt="image" src="https://github.com/user-attachments/assets/f7620a8e-3ad1-41d9-9b92-7b5d6080d2fb" />
+
+
+14. Membuat Konfigurasi Nginx
+    <img width="616" height="501" alt="image" src="https://github.com/user-attachments/assets/6d461de7-7aa0-428f-8387-ff3155113c36" />
+
+16. Menj<img width="943" height="124" alt="image" src="https://github.com/user-attachments/assets/722805e1-820d-4dac-bd2a-b803343fd2a4" />
+alankan Nginx Container
+    
+18. Pengujian
     
