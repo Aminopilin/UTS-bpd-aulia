@@ -1,4 +1,8 @@
 # UTS-bpd-aulia
+Nama : Aulia Rachmi Liunsanda
+NIM : 235410009
+Kelas : Informatika 1
+
 Membuat Load Balancing dengan Podman + Nginx + Flask
 
 1. Persiapan Tools <br>
